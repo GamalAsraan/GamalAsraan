@@ -10,8 +10,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Now-Status;Learning%20Artificial%20intelligence&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-
-- 🏢 I'm a full-time student in Egypt-Japan University of Science and Technology (E-JUST)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills
 
 
